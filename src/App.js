@@ -10,74 +10,62 @@ const tiles = [
   {
     id: 1,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/4/49/Bowser_SSBU.png/375px-Bowser_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/4/49/Bowser_SSBU.png/375px-Bowser_SSBU.png"
   }, 
   {
     id: 2,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/8/82/Ness_SSBU.png/375px-Ness_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/8/82/Ness_SSBU.png/375px-Ness_SSBU.png"
   }, 
   {
     id: 3,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/d/da/Captain_Falcon_SSBU.png/300px-Captain_Falcon_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/d/da/Captain_Falcon_SSBU.png/300px-Captain_Falcon_SSBU.png"
   }, 
   {
     id: 4,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/b/b5/SuperMarioParty_DonkeyKong.png/525px-SuperMarioParty_DonkeyKong.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/b/b5/SuperMarioParty_DonkeyKong.png/525px-SuperMarioParty_DonkeyKong.png"
   }, 
   {
     id: 5,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/4/44/Mario_SSBU.png/300px-Mario_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/4/44/Mario_SSBU.png/300px-Mario_SSBU.png"
   }, 
   {
     id: 6,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/0/03/Samus_SSBU.png/300px-Samus_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/0/03/Samus_SSBU.png/300px-Samus_SSBU.png"
   }, 
   {
     id: 7,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/8/8d/Yoshi_SSBU.png/375px-Yoshi_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/8/8d/Yoshi_SSBU.png/375px-Yoshi_SSBU.png"
   }, 
   {
     id: 8,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/9/93/Pikachu_SSBU.png/375px-Pikachu_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/9/93/Pikachu_SSBU.png/375px-Pikachu_SSBU.png"
   }, 
   {
     id: 9,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/375px-Jigglypuff_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/375px-Jigglypuff_SSBU.png"
   }, 
   {
     id: 10,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/b/bb/Luigi_SSBU.png/375px-Luigi_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/b/bb/Luigi_SSBU.png/375px-Luigi_SSBU.png"
   }, 
   {
     id: 11,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/e/ed/Kirby_SSB4.png/300px-Kirby_SSB4.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/e/ed/Kirby_SSB4.png/300px-Kirby_SSB4.png"
   }, 
   {
     id: 12,
     name: "test",
-    image: "https://www.ssbwiki.com/images/thumb/8/84/Link_SSBU.png/300px-Link_SSBU.png",
-    isClicked: false
+    image: "https://www.ssbwiki.com/images/thumb/8/84/Link_SSBU.png/300px-Link_SSBU.png"
   }
 ];
 
