@@ -1,3 +1,4 @@
+This is a Super Smash Bros themed memory game. The app asks the user to click on the pictures but never the same picture twice. The purpose of this project was to familiarize myself with React's component class and state properties. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
